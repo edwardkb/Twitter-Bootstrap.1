@@ -1,0 +1,24 @@
+/*IDs Classes Selectors*/
+
+.navbar { 
+    background-color: purple !important; 
+}
+
+h1 {
+    font-family: cursive; font-size: 34px; color: #000; margin: 30px; text-align: center;
+}
+
+.maincontainer {
+width: 100%;
+position: relative;
+height: 500px;
+background-color: white;
+}
+
+.q, .q-a {
+    font-family: cursive; padding: 5px; font-size: 15px; background-color: skyblue; margin: auto;
+}
+
+.textcon {
+    border: 1px solid black; position: relative; margin: 0;
+}
